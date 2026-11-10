@@ -1,0 +1,8 @@
+data/
+__pycache__/
+*.zip
+outputs/*
+!outputs/simple_cnn_s42/
+outputs/simple_cnn_s42/*
+!outputs/simple_cnn_s42/best.pt
+!outputs/simple_cnn_s42/temperature.json
